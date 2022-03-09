@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "jueSu1BRaidPyci16COfKRf1pjnFguwcuXC0m+BmyWHQYPyV3F2EBSYlYkqYzqC2gwcVur/4GpJwKUKVwsrhjA==",
+  "dgSpecHash": "xmKZatKQu3U8Xh8OobuoZPhuMRcpPbmyvUlYEeU28Y1C6jPVbsirCk8yyAj5DC6pBDy0s4k0xLIgTYLxdsYUhw==",
   "success": true,
   "projectFilePath": "D:\\repos\\trading-portofolio-backend\\TradingPortofolioBackend\\TradingPortofolioBackend\\TradingPortofolioBackend.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\thirt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\thirt\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\thirt\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\thirt\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\thirt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\thirt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
   "logs": []
 }
